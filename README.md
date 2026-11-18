@@ -44,11 +44,12 @@ I'm a BCA student passionate about technology, software development, and creativ
 - Improving UI/UX design skills
 
 
-🤝 Connect With Me
+## 🤝 Connect With Me
 
-- 💻 GitHub: "Visit My GitHub" (https://github.com/Vishal1-kryadv)
-- 💼 LinkedIn: "Connect With Me" (https://www.linkedin.com/in/vishal-kumar-aaa32b449?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- 📸 Instagram: "Follow Me" (https://www.instagram.com/3x.prime_?hvrq=OHYwM2NvZ3V0Y3du)
+- 💻 **GitHub:** [Visit My GitHub](https://github.com/Vishal1-kryadv)
+- 💼 **LinkedIn:** [Connect With Me](https://www.linkedin.com/in/vishal-kumar-aaa32b449/)
+- 📸 **Instagram:** [Follow Me](https://www.instagram.com/3x.prime_/)
+
 ---
 
 ⭐ Thanks for visiting my profile!
