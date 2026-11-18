@@ -17,19 +17,20 @@ I'm a BCA student passionate about technology, software development, and creativ
 - 🚀 Always learning and exploring new technologies
 
 ## 🛠️ Technical Skills
+### 💻 Programming Languages
 
-### Programming Languages
-- C
-- Java
-- Python
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 ### Development Interests
 - Android Development
 - Web Development
-###Development Tools
--Git & GitHub
--VS Code
--Termux
+### 🛠️ Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ### Design Interests
 - UI/UX Design
 - Graphic Design
