@@ -50,17 +50,19 @@ I'm a BCA student passionate about technology, software development, and creativ
 - 💼 **LinkedIn:** [Connect With Me](https://www.linkedin.com/in/vishal-kumar-aaa32b449/)
 - 📸 **Instagram:** [Follow Me](https://www.instagram.com/3x.prime_/)
 
----
+
 ---
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishal1-kryadv&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishal1kryadv&show_icons=true&theme=dark)
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal1-kryadv&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal1kryadv&layout=compact&theme=dark)
 
 ---
+
+
 
 ⭐ Thanks for visiting my profile!
