@@ -26,7 +26,10 @@ I'm a BCA student passionate about technology, software development, and creativ
 ### Development Interests
 - Android Development
 - Web Development
-
+###Development Tools
+-Git & GitHub
+-VS Code
+-Termux
 ### Design Interests
 - UI/UX Design
 - Graphic Design
