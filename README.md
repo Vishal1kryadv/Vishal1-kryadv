@@ -51,5 +51,16 @@ I'm a BCA student passionate about technology, software development, and creativ
 - 📸 **Instagram:** [Follow Me](https://www.instagram.com/3x.prime_/)
 
 ---
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishal1-kryadv&show_icons=true&theme=dark)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal1-kryadv&layout=compact&theme=dark)
+
+---
 
 ⭐ Thanks for visiting my profile!
